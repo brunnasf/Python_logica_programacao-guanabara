@@ -6,3 +6,4 @@ Exercícios realizados no curso de Python do Prof. Guanabara
 - Dobro, Triplo, Raíz Quadrata
 - Média aritmética
 - Conversor de medidas
+- Tabuada
