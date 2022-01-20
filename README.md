@@ -3,7 +3,7 @@ Exercícios realizados no curso de Python do Prof. Guanabara
 - Somando dois números
 - Dissecando uma variável
 - Antecessor e sucessor
-- Dobro, Triplo, Raíz Quadrata
+- Dobro, Triplo, Raíz Quadrada
 - Média aritmética
 - Conversor de medidas
 - Tabuada
