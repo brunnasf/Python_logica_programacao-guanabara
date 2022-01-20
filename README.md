@@ -7,3 +7,4 @@ Exercícios realizados no curso de Python do Prof. Guanabara
 - Média aritmética
 - Conversor de medidas
 - Tabuada
+- Conversor de moeda
