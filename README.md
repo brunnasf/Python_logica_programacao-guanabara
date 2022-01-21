@@ -8,5 +8,4 @@ Exercícios que realizei durante o curso de Python do Prof. Guanabara
 - Conversor de medidas
 - Tabuada
 - Conversor de moeda
-- Conversor de moedas
 - Pintando parede (aplicação de fórmula geométrica)
