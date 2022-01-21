@@ -1,5 +1,5 @@
 # Python (Lógica de Programação)
-Exercícios realizados no curso de Python do Prof. Guanabara 
+Exercícios que realizei durante o curso de Python do Prof. Guanabara 
 - Somando dois números
 - Dissecando uma variável
 - Antecessor e sucessor
@@ -8,3 +8,5 @@ Exercícios realizados no curso de Python do Prof. Guanabara
 - Conversor de medidas
 - Tabuada
 - Conversor de moeda
+- Conversor de moedas
+- Pintando parede (aplicação de fórmula geométrica)
