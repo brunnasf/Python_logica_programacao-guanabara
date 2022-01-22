@@ -11,3 +11,4 @@ Lista de exercícios que realizei durante o curso de Python do Prof. Guanabara
 - Pintando parede (aplicação de fórmula geométrica)
 - Calculando descontos
 - Reajuste salarial
+- Conversor de temperaturas
