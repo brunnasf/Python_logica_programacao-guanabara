@@ -15,3 +15,5 @@ Lista de exercícios que realizei durante o curso de Python do Prof. Guanabara
 - Reajuste salarial
 - Conversor de temperaturas
 - Aluguel de Carros
+
+# Usando módulos do Python
