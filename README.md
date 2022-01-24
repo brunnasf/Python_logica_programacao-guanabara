@@ -1,5 +1,6 @@
 # Python (Lógica de Programação)
 Lista de exercícios que realizei durante o curso de Python do Prof. Guanabara 
+
 **Tratando dados e fazendo contas:**
 - Somando dois números
 - Dissecando uma variável
@@ -13,3 +14,4 @@ Lista de exercícios que realizei durante o curso de Python do Prof. Guanabara
 - Calculando descontos
 - Reajuste salarial
 - Conversor de temperaturas
+- Aluguel de Carros
