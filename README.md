@@ -16,5 +16,5 @@ Lista de exercícios que realizei durante o curso de Python do Prof. Guanabara
 - Conversor de temperaturas
 - Aluguel de Carros
 
-# Usando módulos do Python
-- n
+**Usando módulos do Python:**
+- 
